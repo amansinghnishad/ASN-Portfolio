@@ -1,0 +1,135 @@
+/* transition and animation */
+
+.animation-hidden {
+    opacity: 0;
+    transition: opacity 2s;
+  }
+  
+  .show {
+    opacity: 1;
+  }
+  
+
+
+
+.fade-in {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+  }
+  
+  .fade-in.show {
+    opacity: 1;
+  }
+
+  
+
+
+/* nav bar */
+
+.navbar {
+
+    background-color: black;
+}
+
+.tags {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+.tags:hover {
+
+   
+    font-size: 1.5rem;
+ 
+
+}
+
+.hidden-nav {
+    visibility: hidden;
+    width: 65%;
+}
+
+
+
+
+
+
+/*  body */
+
+.body{
+    background-color:  #0c0c0c ;
+    padding-bottom: 1%;
+    
+}
+
+.tagline {
+
+    color: white;
+    font-family: Lovelo;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.btn {
+    color: white;
+    border-color: white;
+}
+
+.btn:hover {
+
+    color: black;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+/*footer */
+
+
+
+
+
+footer {
+
+    position: relative;
+    bottom: 0;
+    height: 3rem;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-logo {
+
+    color: white;
+    font-size: 1.5rem;
+
+}
+
+
+.logo-tag {
+    color: white;
+    text-decoration: none;
+}
+
+.logo-tag:hover {
+
+    font-size: 2rem;
+
+}
