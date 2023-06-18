@@ -22,8 +22,7 @@ Throughout the development process, I acquired several key learnings that have s
    enabled me to identify specific lines of code responsible for desired functionalities, empowering me to modify and extend the Bootstrap framework to suit
    my project's requirements.
 
-**4. Emphasis on Learning:** Rather than simply memorizing code snippets, I realized the importance of truly understanding the underlying principles. Focusing
-   on comprehending the core concepts of Bootstrap allowed me to apply them creatively and adaptively to build unique website components.
+**4. Focus on Learning:** Instead of just memorizing code snippets, I realized the importance of truly understanding how things work. By focusing on learning the underlying principles of Bootstrap, I was able to apply them creatively and adaptively to build unique website components. It's about gaining knowledge and grasping the concepts behind the code rather than just memorizing it.
 
 **New Features to be Added:**
 Moving forward, I have several exciting features planned to enhance my portfolio website:
